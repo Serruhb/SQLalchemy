@@ -70,7 +70,7 @@
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals
 
-![trip_normals](https://user-images.githubusercontent.com/50157566/62592992-dfc1b880-b89a-11e9-9ce2-fcf6e35c6643.png)
+![trip_normals](https://user-images.githubusercontent.com/50157566/62593506-98d4c280-b89c-11e9-9627-84cc0a348bc0.png)
 
 ## Climate App
 
