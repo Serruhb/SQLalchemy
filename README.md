@@ -70,6 +70,7 @@
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals
 
+![trip_normals](https://user-images.githubusercontent.com/50157566/62592992-dfc1b880-b89a-11e9-9ce2-fcf6e35c6643.png)
 
 ## Climate App
 
@@ -77,5 +78,5 @@ Designed a Flask API based on the queries that have just been developed.
 
 * Used FLASK to create your routes.
 
-![trip_normals](https://user-images.githubusercontent.com/50157566/62592992-dfc1b880-b89a-11e9-9ce2-fcf6e35c6643.png)
+
 
